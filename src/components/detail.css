@@ -1,0 +1,12 @@
+.detail {
+  width: 400px;
+  max-height: 100%;
+  overflow: scroll;
+
+  padding: 2rem 1rem;
+}
+
+img {
+  width: 100%;
+  margin: 4rem 0;
+}

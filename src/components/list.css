@@ -1,0 +1,16 @@
+ul {
+  padding: 1rem 2rem;
+  display: block;
+  border-right: 1px solid #eee;
+  max-height: 100%;
+  overflow: scroll;
+}
+
+li {
+  cursor: pointer;
+  list-style: none;
+}
+
+li:hover {
+  opacity: 0.8;
+}

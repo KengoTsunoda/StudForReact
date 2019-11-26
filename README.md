@@ -1,2 +1,0 @@
-# StudForReact
-Created with CodeSandbox
